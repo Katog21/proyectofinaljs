@@ -1,0 +1,6 @@
+[
+    { "id": 1, "Movie": "Space Jam", "precio": 9.90 },
+    { "id": 2, "Movie": "WWF Royal Rumble", "precio": 10.90 },
+    { "id": 3, "Movie": "AEW Revolution", "precio": 11.90 },
+    { "id": 4, "Movie": "WWF Royal Rumble 2024 Live", "precio": 15.99}
+]
